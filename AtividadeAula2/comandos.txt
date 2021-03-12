@@ -1,0 +1,13 @@
+coamandos:
+
+git init
+
+git add .
+
+git commit -m "subindo os arquivos"
+
+git remote add origin https://github.com/QuatroQuatros/AulaTP.git
+
+gti push -f origin main
+
+4.444
